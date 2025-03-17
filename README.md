@@ -1,1 +1,1 @@
-Repository for subject 'Generative AI'
+Second lab from subject 'Generative AI'
